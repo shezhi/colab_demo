@@ -52,6 +52,9 @@
         <mxCell id="LZiklPRg2S03HuQF4Nz--21" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:13.5pt;&quot;&gt;通过alpha掩码或颜色梯度，计算出一个二值（True/False）掩码，用来标记关键帧中哪些地方应该‘播种’新的高斯点。&lt;span style=&quot;color:#000000;&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;seeding_mask &lt;/span&gt;= &lt;span style=&quot;color:#94558d;&quot;&gt;self&lt;/span&gt;.compute_seeding_mask(&lt;span style=&quot;color:#000000;&quot;&gt;gaussian_model&lt;/span&gt;, &lt;span style=&quot;color:#000000;&quot;&gt;keyframe&lt;/span&gt;, &lt;span style=&quot;color:#000000;&quot;&gt;is_new_submap&lt;/span&gt;)&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1190" width="1040" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LZiklPRg2S03HuQF4Nz--22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1300" width="570" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
